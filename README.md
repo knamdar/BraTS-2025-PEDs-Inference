@@ -7,7 +7,7 @@ It implements a robust, reproducible, and uncertainty-enabled nnU-Net–based wo
 
 ## 📖 Overview
 
-- **Exploratory Data Analysis (EDA):** First characterization of the BraTS-PEDs 2025 dataset, revealing subregion imbalance, intensity variation, and disconnected tumor islands.
+- **Exploratory Data Analysis (EDA):** First characterization of the BraTS-PEDs 2025 dataset, revealing subregion imbalance, intensity variation, and disconnected tumor islands (refer to EDA_results).
 - **Baseline Benchmarks:** Established nnU-Net v2 benchmarks for whole tumor and subregion segmentation.
 - **Preprocessing Modules:** Evaluated skull stripping, cascading, and atlas-based masking to focus training on relevant brain regions.
 - **Uncertainty Quantification:** Introduced voxel-wise ensemble methods to identify high-uncertainty regions and support human-in-the-loop review.
