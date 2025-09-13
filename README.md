@@ -58,6 +58,10 @@ Input and output folder paths should be configured in your environment before ru
 
 We also provide a pre-built Docker image for easy reproducibility.
 
+```bash
+docker pull knamdar/bratsped25namdar:latest
+```
+
 ### 1. One-Shot Run (automatically runs pipeline)
 
 ```bash
