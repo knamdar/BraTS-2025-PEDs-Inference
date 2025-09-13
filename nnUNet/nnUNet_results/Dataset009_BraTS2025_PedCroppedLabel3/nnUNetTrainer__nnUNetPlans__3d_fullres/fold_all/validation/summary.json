@@ -1,0 +1,4202 @@
+{
+    "foreground_mean": {
+        "Dice": 0.45708100585556394,
+        "FN": 297.63984674329504,
+        "FP": 334.2452107279693,
+        "IoU": 0.3927825016835428,
+        "TN": 731955.3180076629,
+        "TP": 1972.5057471264367,
+        "n_pred": 2306.7509578544064,
+        "n_ref": 2270.145593869732
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.45708100585556394,
+            "FN": 297.63984674329504,
+            "FP": 334.2452107279693,
+            "IoU": 0.3927825016835428,
+            "TN": 731955.3180076629,
+            "TP": 1972.5057471264367,
+            "n_pred": 2306.7509578544064,
+            "n_ref": 2270.145593869732
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.1529745042492918,
+                    "FN": 553,
+                    "FP": 45,
+                    "IoU": 0.08282208588957055,
+                    "TN": 1404276,
+                    "TP": 54,
+                    "n_pred": 99,
+                    "n_ref": 607
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00001-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00001-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 148877,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00002-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00002-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 1906624,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00003-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00003-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 27,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 1481517,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 27
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00004-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00004-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8179577007914882,
+                    "FN": 665,
+                    "FP": 738,
+                    "IoU": 0.69198682766191,
+                    "TN": 257589,
+                    "TP": 3152,
+                    "n_pred": 3890,
+                    "n_ref": 3817
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00005-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00005-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 185193,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00006-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00006-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 1124864,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00008-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00008-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.838981091951366,
+                    "FN": 1786,
+                    "FP": 1697,
+                    "IoU": 0.7226248307716812,
+                    "TN": 1282472,
+                    "TP": 9074,
+                    "n_pred": 10771,
+                    "n_ref": 10860
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00009-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00009-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 768984,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00010-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00010-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 3,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 531438,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 3
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00013-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00013-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 287496,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00014-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00014-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 4,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 884732,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 4
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00015-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00015-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8242847700878104,
+                    "FN": 814,
+                    "FP": 1047,
+                    "IoU": 0.7010921940250562,
+                    "TN": 607899,
+                    "TP": 4365,
+                    "n_pred": 5412,
+                    "n_ref": 5179
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00016-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00016-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.20837696335078534,
+                    "FN": 1493,
+                    "FP": 19,
+                    "IoU": 0.1163062536528346,
+                    "TN": 2984273,
+                    "TP": 199,
+                    "n_pred": 218,
+                    "n_ref": 1692
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00017-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00017-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.693069306930693,
+                    "FN": 52,
+                    "FP": 165,
+                    "IoU": 0.5303030303030303,
+                    "TN": 1404466,
+                    "TP": 245,
+                    "n_pred": 410,
+                    "n_ref": 297
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00018-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00018-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8567620063221236,
+                    "FN": 2710,
+                    "FP": 1051,
+                    "IoU": 0.7494170164567926,
+                    "TN": 2970975,
+                    "TP": 11248,
+                    "n_pred": 12299,
+                    "n_ref": 13958
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00019-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00019-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8837231144923453,
+                    "FN": 1029,
+                    "FP": 1447,
+                    "IoU": 0.7916701724863273,
+                    "TN": 346026,
+                    "TP": 9409,
+                    "n_pred": 10856,
+                    "n_ref": 10438
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00020-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00020-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 14,
+                    "FP": 598,
+                    "IoU": 0.0,
+                    "TN": 1860255,
+                    "TP": 0,
+                    "n_pred": 598,
+                    "n_ref": 14
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00021-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00021-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 1331000,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00022-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00022-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 1404928,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00023-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00023-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 1061208,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00024-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00024-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 438976,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00025-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00025-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8592391304347826,
+                    "FN": 238,
+                    "FP": 280,
+                    "IoU": 0.7532158170557408,
+                    "TN": 213901,
+                    "TP": 1581,
+                    "n_pred": 1861,
+                    "n_ref": 1819
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00026-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00026-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 73,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 249974,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 73
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00027-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00027-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9231090556467253,
+                    "FN": 1129,
+                    "FP": 1448,
+                    "IoU": 0.857198271085005,
+                    "TN": 1797802,
+                    "TP": 15469,
+                    "n_pred": 16917,
+                    "n_ref": 16598
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00028-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00028-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8834446919079436,
+                    "FN": 79,
+                    "FP": 78,
+                    "IoU": 0.7912234042553191,
+                    "TN": 109840,
+                    "TP": 595,
+                    "n_pred": 673,
+                    "n_ref": 674
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00029-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00029-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 15,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 1727985,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 15
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00030-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00030-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8977851300431946,
+                    "FN": 6056,
+                    "FP": 5066,
+                    "IoU": 0.8145282326651769,
+                    "TN": 1165077,
+                    "TP": 48844,
+                    "n_pred": 53910,
+                    "n_ref": 54900
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00031-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00031-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9212928891098956,
+                    "FN": 1677,
+                    "FP": 2280,
+                    "IoU": 0.8540713969612037,
+                    "TN": 701884,
+                    "TP": 23159,
+                    "n_pred": 25439,
+                    "n_ref": 24836
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00032-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00032-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7856598016781083,
+                    "FN": 166,
+                    "FP": 115,
+                    "IoU": 0.6469849246231156,
+                    "TN": 1258916,
+                    "TP": 515,
+                    "n_pred": 630,
+                    "n_ref": 681
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00033-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00033-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.714622641509434,
+                    "FN": 930,
+                    "FP": 1248,
+                    "IoU": 0.5559633027522936,
+                    "TN": 1087822,
+                    "TP": 2727,
+                    "n_pred": 3975,
+                    "n_ref": 3657
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00034-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00034-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 68,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 1560828,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 68
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00035-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00035-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9330526315789474,
+                    "FN": 431,
+                    "FP": 364,
+                    "IoU": 0.8745067087608525,
+                    "TN": 432641,
+                    "TP": 5540,
+                    "n_pred": 5904,
+                    "n_ref": 5971
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00036-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00036-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 2,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 287494,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 2
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00037-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00037-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 148877,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00038-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00038-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 46,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 474506,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 46
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00039-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00039-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.950037565740045,
+                    "FN": 751,
+                    "FP": 313,
+                    "IoU": 0.904830053667263,
+                    "TN": 463372,
+                    "TP": 10116,
+                    "n_pred": 10429,
+                    "n_ref": 10867
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00040-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00040-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 17,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 636039,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 17
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00041-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00041-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6346255413541777,
+                    "FN": 1458,
+                    "FP": 2001,
+                    "IoU": 0.4647996286554232,
+                    "TN": 2979521,
+                    "TP": 3004,
+                    "n_pred": 5005,
+                    "n_ref": 4462
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00042-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00042-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 4,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 1727996,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 4
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00043-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00043-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 314432,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00044-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00044-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8338502436863092,
+                    "FN": 351,
+                    "FP": 399,
+                    "IoU": 0.7150455927051672,
+                    "TN": 419243,
+                    "TP": 1882,
+                    "n_pred": 2281,
+                    "n_ref": 2233
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00045-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00045-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 328509,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00046-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00046-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 3,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 250044,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 3
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00047-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00047-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 1,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 2863287,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 1
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00048-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00048-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8237610764686577,
+                    "FN": 144,
+                    "FP": 393,
+                    "IoU": 0.7003348214285714,
+                    "TN": 1904832,
+                    "TP": 1255,
+                    "n_pred": 1648,
+                    "n_ref": 1399
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00049-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00049-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 2,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 884734,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 2
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00050-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00050-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8703368940016434,
+                    "FN": 181,
+                    "FP": 608,
+                    "IoU": 0.7704393366307827,
+                    "TN": 2244654,
+                    "TP": 2648,
+                    "n_pred": 3256,
+                    "n_ref": 2829
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00051-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00051-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 314432,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00052-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00052-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 238328,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00053-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00053-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 1404928,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00054-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00054-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8995290423861853,
+                    "FN": 79,
+                    "FP": 49,
+                    "IoU": 0.8174037089871612,
+                    "TN": 109891,
+                    "TP": 573,
+                    "n_pred": 622,
+                    "n_ref": 652
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00055-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00055-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8811007268951194,
+                    "FN": 159,
+                    "FP": 299,
+                    "IoU": 0.7874709976798144,
+                    "TN": 702814,
+                    "TP": 1697,
+                    "n_pred": 1996,
+                    "n_ref": 1856
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00056-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00056-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 456533,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00057-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00057-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8506168722907635,
+                    "FN": 744,
+                    "FP": 1048,
+                    "IoU": 0.7400638236147374,
+                    "TN": 1054314,
+                    "TP": 5102,
+                    "n_pred": 6150,
+                    "n_ref": 5846
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00058-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00058-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 1,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 636055,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 1
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00059-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00059-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 2,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 1727998,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 2
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00060-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00060-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8568265682656827,
+                    "FN": 226,
+                    "FP": 162,
+                    "IoU": 0.749515816655907,
+                    "TN": 326960,
+                    "TP": 1161,
+                    "n_pred": 1323,
+                    "n_ref": 1387
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00061-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00061-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 778688,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00062-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00062-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 1728000,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00063-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00063-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8371790705232369,
+                    "FN": 399,
+                    "FP": 102,
+                    "IoU": 0.7199552822806037,
+                    "TN": 1726211,
+                    "TP": 1288,
+                    "n_pred": 1390,
+                    "n_ref": 1687
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00064-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00064-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 1481544,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00065-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00065-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 28,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 2628044,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 28
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00066-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00066-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8363037292197094,
+                    "FN": 553,
+                    "FP": 540,
+                    "IoU": 0.7186615186615186,
+                    "TN": 296878,
+                    "TP": 2792,
+                    "n_pred": 3332,
+                    "n_ref": 3345
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00067-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00067-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 148877,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00068-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00068-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 658503,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00069-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00069-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 205379,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00070-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00070-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 1,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 287495,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 1
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00071-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00071-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 185193,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00072-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00072-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 147,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 1481397,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 147
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00073-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00073-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 125000,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00074-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00074-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 117649,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00075-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00075-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 804357,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00076-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00076-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 166375,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00077-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00077-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 389017,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00078-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00078-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 1367631,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00079-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00079-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8943523962230536,
+                    "FN": 363,
+                    "FP": 230,
+                    "IoU": 0.808894618111505,
+                    "TN": 284393,
+                    "TP": 2510,
+                    "n_pred": 2740,
+                    "n_ref": 2873
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00080-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00080-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9017144476455864,
+                    "FN": 1491,
+                    "FP": 590,
+                    "IoU": 0.8210200395630859,
+                    "TN": 316882,
+                    "TP": 9546,
+                    "n_pred": 10136,
+                    "n_ref": 11037
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00081-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00081-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7995553908855132,
+                    "FN": 675,
+                    "FP": 407,
+                    "IoU": 0.6660493827160494,
+                    "TN": 401984,
+                    "TP": 2158,
+                    "n_pred": 2565,
+                    "n_ref": 2833
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00082-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00082-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 467856,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00083-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00083-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 343000,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00084-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00084-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 182,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 238146,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 182
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00085-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00085-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 274625,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00086-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00086-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 205379,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00087-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00087-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9482538873311241,
+                    "FN": 355,
+                    "FP": 51,
+                    "IoU": 0.9015996122152206,
+                    "TN": 724874,
+                    "TP": 3720,
+                    "n_pred": 3771,
+                    "n_ref": 4075
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00088-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00088-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8754625145893864,
+                    "FN": 3317,
+                    "FP": 1698,
+                    "IoU": 0.7785089656390778,
+                    "TN": 834733,
+                    "TP": 17627,
+                    "n_pred": 19325,
+                    "n_ref": 20944
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00089-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00089-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8767066733508301,
+                    "FN": 3069,
+                    "FP": 1112,
+                    "IoU": 0.7804788407014597,
+                    "TN": 2666573,
+                    "TP": 14865,
+                    "n_pred": 15977,
+                    "n_ref": 17934
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00091-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00091-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 571787,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00092-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00092-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6959767731231854,
+                    "FN": 1460,
+                    "FP": 739,
+                    "IoU": 0.5337150127226463,
+                    "TN": 1258784,
+                    "TP": 2517,
+                    "n_pred": 3256,
+                    "n_ref": 3977
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00093-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00093-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7954918995069266,
+                    "FN": 438,
+                    "FP": 433,
+                    "IoU": 0.6604288499025341,
+                    "TN": 173051,
+                    "TP": 1694,
+                    "n_pred": 2127,
+                    "n_ref": 2132
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00094-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00094-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 208,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 215792,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 208
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00095-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00095-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 981824,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00096-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00096-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7440727336922941,
+                    "FN": 5818,
+                    "FP": 8679,
+                    "IoU": 0.5924489050068876,
+                    "TN": 1057156,
+                    "TP": 21074,
+                    "n_pred": 29753,
+                    "n_ref": 26892
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00097-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00097-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 4,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 493035,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 4
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00098-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00098-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9371094269379072,
+                    "FN": 619,
+                    "FP": 1273,
+                    "IoU": 0.8816612459344508,
+                    "TN": 258637,
+                    "TP": 14096,
+                    "n_pred": 15369,
+                    "n_ref": 14715
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00099-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00099-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5920454545454545,
+                    "FN": 272,
+                    "FP": 446,
+                    "IoU": 0.420500403551251,
+                    "TN": 2984745,
+                    "TP": 521,
+                    "n_pred": 967,
+                    "n_ref": 793
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00100-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00100-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.37538461538461537,
+                    "FN": 177,
+                    "FP": 26,
+                    "IoU": 0.23106060606060605,
+                    "TN": 1092463,
+                    "TP": 61,
+                    "n_pred": 87,
+                    "n_ref": 238
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00101-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00101-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 110592,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00102-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00102-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 6,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 1727994,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 6
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00103-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00103-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 3581577,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00104-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00104-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7330758284204106,
+                    "FN": 1160,
+                    "FP": 1466,
+                    "IoU": 0.5786264441591784,
+                    "TN": 468320,
+                    "TP": 3606,
+                    "n_pred": 5072,
+                    "n_ref": 4766
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00105-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00105-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7222222222222222,
+                    "FN": 182,
+                    "FP": 298,
+                    "IoU": 0.5652173913043478,
+                    "TN": 387913,
+                    "TP": 624,
+                    "n_pred": 922,
+                    "n_ref": 806
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00106-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00106-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 830584,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00107-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00107-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 134,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 941058,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 134
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00108-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00108-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9312593454062137,
+                    "FN": 3614,
+                    "FP": 3006,
+                    "IoU": 0.8713613928724107,
+                    "TN": 752895,
+                    "TP": 44842,
+                    "n_pred": 47848,
+                    "n_ref": 48456
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00109-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00109-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 658503,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00110-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00110-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 2,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 342998,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 2
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00112-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00112-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 132651,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00113-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00113-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8236259228876128,
+                    "FN": 357,
+                    "FP": 288,
+                    "IoU": 0.700139470013947,
+                    "TN": 340849,
+                    "TP": 1506,
+                    "n_pred": 1794,
+                    "n_ref": 1863
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00114-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00114-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 438976,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00115-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00115-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 851786,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00116-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00116-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 1295029,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00117-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00117-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 474552,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00118-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00118-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 1404928,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00119-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00119-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8137894457703527,
+                    "FN": 1202,
+                    "FP": 2309,
+                    "IoU": 0.6860413127067871,
+                    "TN": 317326,
+                    "TP": 7672,
+                    "n_pred": 9981,
+                    "n_ref": 8874
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00120-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00120-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 2000376,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00121-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00121-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6146695960790941,
+                    "FN": 2631,
+                    "FP": 6489,
+                    "IoU": 0.44369891423691593,
+                    "TN": 2231697,
+                    "TP": 7274,
+                    "n_pred": 13763,
+                    "n_ref": 9905
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00122-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00122-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 357911,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00123-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00123-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.87215411558669,
+                    "FN": 225,
+                    "FP": 140,
+                    "IoU": 0.7732919254658385,
+                    "TN": 612515,
+                    "TP": 1245,
+                    "n_pred": 1385,
+                    "n_ref": 1470
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00124-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00124-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 884736,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00125-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00125-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 3,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 592701,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 3
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00126-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00126-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 778688,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00127-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00127-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 157464,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00128-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00128-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7965367965367965,
+                    "FN": 371,
+                    "FP": 240,
+                    "IoU": 0.6618705035971223,
+                    "TN": 510193,
+                    "TP": 1196,
+                    "n_pred": 1436,
+                    "n_ref": 1567
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00129-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00129-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 1367631,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00130-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00130-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 681472,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00131-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00131-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 185193,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00132-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00132-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 1404928,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00133-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00133-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 373248,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00134-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00134-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.47232472324723246,
+                    "FN": 182,
+                    "FP": 247,
+                    "IoU": 0.30917874396135264,
+                    "TN": 1906003,
+                    "TP": 192,
+                    "n_pred": 439,
+                    "n_ref": 374
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00135-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00135-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9337327114102437,
+                    "FN": 5343,
+                    "FP": 2002,
+                    "IoU": 0.8757022947268666,
+                    "TN": 1200620,
+                    "TP": 51747,
+                    "n_pred": 53749,
+                    "n_ref": 57090
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00136-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00136-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 571787,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00137-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00137-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.32950191570881227,
+                    "FN": 145,
+                    "FP": 30,
+                    "IoU": 0.19724770642201836,
+                    "TN": 912455,
+                    "TP": 43,
+                    "n_pred": 73,
+                    "n_ref": 188
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00138-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00138-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 474552,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00139-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00139-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 175616,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00140-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00140-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8008932769158439,
+                    "FN": 634,
+                    "FP": 1060,
+                    "IoU": 0.6679082532836699,
+                    "TN": 1056107,
+                    "TP": 3407,
+                    "n_pred": 4467,
+                    "n_ref": 4041
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00141-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00141-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 614125,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00142-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00142-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8645303867403314,
+                    "FN": 476,
+                    "FP": 1363,
+                    "IoU": 0.7613857532113663,
+                    "TN": 721293,
+                    "TP": 5868,
+                    "n_pred": 7231,
+                    "n_ref": 6344
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00143-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00143-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 1481544,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00144-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00144-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 357911,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00145-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00145-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 64,
+                    "FP": 190,
+                    "IoU": 0.0,
+                    "TN": 830330,
+                    "TP": 0,
+                    "n_pred": 190,
+                    "n_ref": 64
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00146-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00146-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 166375,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00147-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00147-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.570473005255614,
+                    "FN": 1596,
+                    "FP": 1101,
+                    "IoU": 0.39906417112299464,
+                    "TN": 1088239,
+                    "TP": 1791,
+                    "n_pred": 2892,
+                    "n_ref": 3387
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00148-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00148-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 300763,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00149-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00149-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 551368,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00150-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00150-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 287496,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00151-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00151-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 343000,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00152-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00152-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8931343116466876,
+                    "FN": 5034,
+                    "FP": 10237,
+                    "IoU": 0.806903964089271,
+                    "TN": 1692476,
+                    "TP": 63814,
+                    "n_pred": 74051,
+                    "n_ref": 68848
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00153-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00153-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 1906624,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00154-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00154-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 753571,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00155-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00155-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 2197000,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00156-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00156-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 185193,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00157-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00157-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 328509,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00158-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00158-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8779697624190065,
+                    "FN": 608,
+                    "FP": 296,
+                    "IoU": 0.782483156881617,
+                    "TN": 470396,
+                    "TP": 3252,
+                    "n_pred": 3548,
+                    "n_ref": 3860
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00159-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00159-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 205379,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00160-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00160-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 238328,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00161-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00161-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 226981,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00162-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00162-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 2460375,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00163-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00163-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 110592,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00164-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00164-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 2390,
+                    "IoU": 0.0,
+                    "TN": 247657,
+                    "TP": 0,
+                    "n_pred": 2390,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00165-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00165-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 328509,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00166-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00166-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9571866451336475,
+                    "FN": 2307,
+                    "FP": 1590,
+                    "IoU": 0.9178887484197219,
+                    "TN": 1513436,
+                    "TP": 43563,
+                    "n_pred": 45153,
+                    "n_ref": 45870
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00167-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00167-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 11,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 342989,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 11
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00168-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00168-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 262144,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00169-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00169-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 3967,
+                    "IoU": 0.0,
+                    "TN": 2142722,
+                    "TP": 0,
+                    "n_pred": 3967,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00170-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00170-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 531441,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00171-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00171-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 804357,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00172-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00172-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 274625,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00173-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00173-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 1124864,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00174-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00174-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 262144,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00175-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00175-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 2406104,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00176-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00176-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8869223205506391,
+                    "FN": 157,
+                    "FP": 73,
+                    "IoU": 0.7968197879858657,
+                    "TN": 550236,
+                    "TP": 902,
+                    "n_pred": 975,
+                    "n_ref": 1059
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00177-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00177-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 474552,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00178-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00178-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 1520875,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00179-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00179-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 185193,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00180-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00180-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 195112,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00181-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00181-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 2985984,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00182-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00182-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 373248,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00183-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00183-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 1362,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 299401,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 1362
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00184-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00184-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 1601613,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00185-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00185-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 2803221,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00186-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00186-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 216000,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00187-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00187-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 778688,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00188-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00188-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 140608,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00189-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00189-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 571787,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00190-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00190-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 389017,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00191-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00191-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 314432,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00192-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00192-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 421875,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00193-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00193-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 117649,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00194-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00194-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 287496,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00195-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00195-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 166375,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00196-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00196-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 328509,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00197-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00197-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7631578947368421,
+                    "FN": 39,
+                    "FP": 141,
+                    "IoU": 0.6170212765957447,
+                    "TN": 226511,
+                    "TP": 290,
+                    "n_pred": 431,
+                    "n_ref": 329
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00198-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00198-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 205379,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00199-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00199-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 1,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 250046,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 1
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00200-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00200-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 389017,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00201-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00201-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 250047,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00202-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00202-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 493039,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00203-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00203-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 110592,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00204-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00204-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 287496,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00205-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00205-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 195112,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00206-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00206-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 405224,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00207-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00207-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 226981,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00208-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00208-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 287496,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00209-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00209-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8299304295220811,
+                    "FN": 2825,
+                    "FP": 1673,
+                    "IoU": 0.7093000710915789,
+                    "TN": 259152,
+                    "TP": 10975,
+                    "n_pred": 12648,
+                    "n_ref": 13800
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00210-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00210-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 3581577,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00211-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00211-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 1451,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 387566,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 1451
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00212-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00212-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 314432,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00213-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00213-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 314432,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00214-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00214-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 343000,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00215-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00215-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 328509,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00216-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00216-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 7,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 328502,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 7
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00217-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00217-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 110592,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00218-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00218-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 205379,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00219-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00219-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 175616,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00220-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00220-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 274625,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00221-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00221-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 314432,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00222-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00222-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 125000,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00223-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00223-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 4,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 1225039,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 4
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00224-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00224-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 117649,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00225-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00225-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 250047,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00226-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00226-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 185193,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00227-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00227-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 274625,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00228-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00228-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 216000,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00229-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00229-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 405224,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00230-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00230-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 343000,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00231-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00231-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 405224,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00232-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00232-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 274625,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00233-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00233-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 389017,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00234-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00234-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 438976,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00235-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00235-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 5,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 2460370,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 5
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00236-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00236-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 328,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 300435,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 328
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00237-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00237-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 250047,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00238-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00238-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 2,
+                    "FP": 3449,
+                    "IoU": 0.0,
+                    "TN": 489588,
+                    "TP": 0,
+                    "n_pred": 3449,
+                    "n_ref": 2
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00239-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00239-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 389017,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00240-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00240-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 819,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 342181,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 819
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00241-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00241-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 140,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 215860,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 140
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00242-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00242-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 389017,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00243-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00243-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 357911,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00244-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00244-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 9,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 314423,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 9
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00245-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00245-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 373248,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00246-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00246-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 110592,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00247-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00247-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9540918163672655,
+                    "FN": 124,
+                    "FP": 106,
+                    "IoU": 0.9122137404580153,
+                    "TN": 192492,
+                    "TP": 2390,
+                    "n_pred": 2496,
+                    "n_ref": 2514
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00248-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00248-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 328509,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00249-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00249-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 1,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 357910,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 1
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00250-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00250-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 205379,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00251-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00251-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 300763,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00252-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00252-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 195112,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00253-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00253-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 287496,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00254-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00254-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 804357,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00255-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00255-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 12,
+                    "FP": 3647,
+                    "IoU": 0.0,
+                    "TN": 385358,
+                    "TP": 0,
+                    "n_pred": 3647,
+                    "n_ref": 12
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00256-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00256-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7004103967168263,
+                    "FN": 118,
+                    "FP": 101,
+                    "IoU": 0.5389473684210526,
+                    "TN": 194637,
+                    "TP": 256,
+                    "n_pred": 357,
+                    "n_ref": 374
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00257-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00257-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 111,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 314321,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 111
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00258-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00258-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 148877,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00259-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00259-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 86,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 262058,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 86
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00260-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00260-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8614457831325302,
+                    "FN": 37,
+                    "FP": 55,
+                    "IoU": 0.7566137566137566,
+                    "TN": 511622,
+                    "TP": 286,
+                    "n_pred": 341,
+                    "n_ref": 323
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00261-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00261-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 287496,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00262-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00262-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 421875,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00263-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00263-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 216000,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00264-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00264-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 140608,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00265-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00265-000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 300763,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/home/ernest/nnUNet_results/Dataset009_BraTS2025_PedCroppedLabel3/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_all/validation/BraTS-PED-00266-000.nii.gz",
+            "reference_file": "/home/ernest/nnUNet_preprocessed/Dataset009_BraTS2025_PedCroppedLabel3/gt_segmentations/BraTS-PED-00266-000.nii.gz"
+        }
+    ]
+}
